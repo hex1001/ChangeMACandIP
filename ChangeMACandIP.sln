@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeMACandIP", "ChangeMACandIP.csproj", "{4D2F96E2-6B75-4244-AB85-333DAA604478}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D2F96E2-6B75-4244-AB85-333DAA604478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2F96E2-6B75-4244-AB85-333DAA604478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2F96E2-6B75-4244-AB85-333DAA604478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2F96E2-6B75-4244-AB85-333DAA604478}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1001DC62-56F7-41AD-907A-CFCB10C26C62}
+	EndGlobalSection
+EndGlobal

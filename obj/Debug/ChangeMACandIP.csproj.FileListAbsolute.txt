@@ -1,0 +1,9 @@
+F:\projects\C#\ChangeMACandIP\bin\Debug\ChangeMACandIP.exe
+F:\projects\C#\ChangeMACandIP\bin\Debug\ChangeMACandIP.pdb
+F:\projects\C#\ChangeMACandIP\obj\Debug\ChangeMACandIP.csproj.AssemblyReference.cache
+F:\projects\C#\ChangeMACandIP\obj\Debug\ChangeMACandIP.Form1.resources
+F:\projects\C#\ChangeMACandIP\obj\Debug\ChangeMACandIP.Properties.Resources.resources
+F:\projects\C#\ChangeMACandIP\obj\Debug\ChangeMACandIP.csproj.GenerateResource.cache
+F:\projects\C#\ChangeMACandIP\obj\Debug\ChangeMACandIP.csproj.CoreCompileInputs.cache
+F:\projects\C#\ChangeMACandIP\obj\Debug\ChangeMACandIP.exe
+F:\projects\C#\ChangeMACandIP\obj\Debug\ChangeMACandIP.pdb
